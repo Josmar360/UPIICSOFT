@@ -1,3 +1,5 @@
+# Josmar Gustavo Palomino Castelan
+# Josmar360
 # Declaracion de variable Palabra
 Palabra = str(input("Dame una palabra para saber si es un palíndromo: "))
 
